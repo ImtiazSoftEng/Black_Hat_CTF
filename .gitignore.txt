@@ -1,0 +1,17 @@
+# Forensic evidence / working files
+Working/
+
+# Windows Search Index artifacts
+*.db
+*.db-wal
+*.db-shm
+*.FileSlack
+
+# CTF evidence archives
+*.7z
+*.zip
+*.rar
+
+# OS files
+.DS_Store
+Thumbs.db
